@@ -1,3 +1,7 @@
+//lucas lima silva de paula
+//1261937681
+
+
 public class Ex2 {
 
     public static int somarArray(int[] array) {
